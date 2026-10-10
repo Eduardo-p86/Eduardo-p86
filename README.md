@@ -1,34 +1,52 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C00F7&width=435&lines=Meu+nome+e+Eduardo%F0%9F%91%8C)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Eduardo+%F0%9F%91%8B;Estudante+de+Tecnologia;Apaixonado+por+Programa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
-Tenho 16 anos e sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de software.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eduardo-p86&label=Visualiza%C3%A7%C3%B5es&color=a855f7&style=flat" alt="Visitor badge"/>
+  <img src="https://img.shields.io/badge/Status-Estudando-success?style=flat" alt="Status"/>
+</p>
 
-🎓 Formação:
+---
 
-<table>
-  <tr>
-    <td>
-      
-- Curso Livre de **Python** pelo SENAI.
-- Curso Livre de **C++** pelo SENAI.
-- Atualmente cursando **Técnico em Desenvolvimento de Sistemas**.
-      
-    </td>
-    <td>
-      <img src="https://www.gifcen.com/wp-content/uploads/2025/05/dinosaur-game-gif-1.gif" width="180">
-    </td>
-  </tr>
-</table>
+### 🙋‍♂️ Sobre mim
 
-💻 Tenho interesse em desenvolvimento de software, lógica de programação e estou sempre buscando aprender novas tecnologias e criar projetos para evoluir minhas habilidades. 
-🚀 Este GitHub reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada na programação.
+Sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de software. Este GitHub reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada na programação. 🚀
+
+### 🎓 Formação
+
+- ✅ Curso Livre de **Python** — SENAI
+- ✅ Curso Livre de **C++** — SENAI
+- 🔄 Cursando **Técnico em Desenvolvimento de Sistemas**
+
+### 💻 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,cs&theme=dark" alt="Skills" />
+</p>
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eduardo-p86&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-p86&layout=compact&theme=radical&hide_border=true" alt="Top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-p86&theme=radical&hide_border=true" alt="Streak"/>
+</p>
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:e3159946@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/duduuxz010/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
 
 <div align="center">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
+  <sub>💡 Em constante aprendizado. Se curtiu algum projeto, deixe uma ⭐!</sub>
 </div>
