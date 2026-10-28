@@ -16,9 +16,9 @@ text{font-family:'Segoe UI',Ubuntu,Sans-Serif}
 </g>
 <g class="c" style="animation-delay:0.2s">
 <circle class="ring" cx="300" cy="68" r="38" fill="none" stroke="#A855F7" stroke-width="3"/>
-<text class="n" x="300" y="80" text-anchor="middle" fill="#A855F7">1</text>
+<text class="n" x="300" y="80" text-anchor="middle" fill="#A855F7">0</text>
 <text class="l" x="300" y="125" text-anchor="middle">Sequência atual (dias)</text>
-<text class="s" x="300" y="145" text-anchor="middle">26 out</text>
+<text class="s" x="300" y="145" text-anchor="middle">—</text>
 </g>
 <g class="c" style="animation-delay:0.4s">
 <text class="n" x="500" y="80" text-anchor="middle" fill="#a9fef7">5</text>
