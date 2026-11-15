@@ -10,15 +10,15 @@ text{font-family:'Segoe UI',Ubuntu,Sans-Serif}
 <line x1="200" y1="30" x2="200" y2="140" stroke="#2a2840"/>
 <line x1="400" y1="30" x2="400" y2="140" stroke="#2a2840"/>
 <g class="c" style="animation-delay:0.0s">
-<text class="n" x="100" y="80" text-anchor="middle" fill="#a9fef7">38</text>
+<text class="n" x="100" y="80" text-anchor="middle" fill="#a9fef7">43</text>
 <text class="l" x="100" y="125" text-anchor="middle">Total de contribuições</text>
 <text class="s" x="100" y="145" text-anchor="middle">desde 8 mai 2026</text>
 </g>
 <g class="c" style="animation-delay:0.2s">
 <circle class="ring" cx="300" cy="68" r="38" fill="none" stroke="#A855F7" stroke-width="3"/>
-<text class="n" x="300" y="80" text-anchor="middle" fill="#A855F7">0</text>
+<text class="n" x="300" y="80" text-anchor="middle" fill="#A855F7">1</text>
 <text class="l" x="300" y="125" text-anchor="middle">Sequência atual (dias)</text>
-<text class="s" x="300" y="145" text-anchor="middle">—</text>
+<text class="s" x="300" y="145" text-anchor="middle">15 nov</text>
 </g>
 <g class="c" style="animation-delay:0.4s">
 <text class="n" x="500" y="80" text-anchor="middle" fill="#a9fef7">5</text>
