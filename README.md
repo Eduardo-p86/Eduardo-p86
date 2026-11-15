@@ -14,6 +14,7 @@
   <p>
     <a href="#-sobre-mim">Sobre mim</a> •
     <a href="#-forma%C3%A7%C3%A3o">Formação</a> •
+    <a href="#-certificados">Certificados</a> •
     <a href="#-tecnologias">Tecnologias</a> •
     <a href="#-atividade">Atividade</a> •
     <a href="#-brincadeiras">Brincadeiras</a> •
@@ -29,7 +30,8 @@
 Sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de software. Este GitHub reúne meus estudos, exercícios e projetos desenvolvidos durante minha jornada na programação. 🚀
 
 - 🔭 Atualmente estudando **desenvolvimento de sistemas**
-- 🌱 Aprofundando meus conhecimentos em **C++** e **Python**
+- 🌱 Evoluindo em **C++** (já além do básico) e aprofundando em **Python**
+- 🐧 Familiarizado com **Linux** e linha de comando (Cisco Networking Academy)
 - 💬 Pergunte-me sobre **lógica de programação** e **algoritmos**
 - 🎯 Objetivo: me tornar desenvolvedor(a) de software
 
@@ -48,6 +50,7 @@ Sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de s
 
 - ✅ Curso Livre de **Python** — SENAI
 - ✅ Curso Livre de **C++** — SENAI
+- ✅ **Linux Unhatched** — Cisco Networking Academy (em parceria com a NDG)
 - 🔄 Cursando **Técnico em Desenvolvimento de Sistemas**
 
 <details>
@@ -56,7 +59,8 @@ Sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de s
 
 - [x] Lógica de programação
 - [x] Python básico
-- [x] C++ básico
+- [x] C++
+- [x] Linux e linha de comando
 - [ ] Estruturas de dados e algoritmos
 - [ ] Banco de dados (SQL)
 - [ ] Git e GitHub avançado
@@ -64,11 +68,56 @@ Sou estudante de Tecnologia, apaixonado por programação e desenvolvimento de s
 
 </details>
 
+### 🏅 Certificados
+
+<p align="center">
+  <sub>🖱️ Clique em um certificado para abrir o documento</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/Eduardo-p86/Eduardo-p86/blob/main/assets/linux-unhatched.pdf">
+        <img src="assets/image%20(1).png" width="110" alt="Certificado Linux Unhatched" />
+      </a>
+      <br />
+      <sub><b>Linux Unhatched</b></sub>
+      <br />
+      <sub>Cisco Networking Academy</sub>
+      <br />
+      <sub>Nov 2026</sub>
+      <br />
+      <a href="https://www.credly.com/badges/ff1a3002-bfd5-4506-8c1e-f6e07ec5e835/public_url"><sub>🔗 Validar no Credly</sub></a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SENAI-Python-A855F7?style=for-the-badge" alt="Python SENAI" />
+      <br />
+      <sub><b>Python</b></sub>
+      <br />
+      <sub>SENAI</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/SENAI-C++-A855F7?style=for-the-badge" alt="C++ SENAI" />
+      <br />
+      <sub><b>C++</b></sub>
+      <br />
+      <sub>SENAI</sub>
+    </td>
+  </tr>
+</table>
+
+<!--
+Embed original do Credly (não funciona no README do GitHub, pois scripts são bloqueados):
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ff1a3002-bfd5-4506-8c1e-f6e07ec5e835" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+-->
+
 ### 💻 Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,git,github,vscode&theme=dark" alt="C, C++, Python, C#, Git, GitHub e VS Code" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,linux,git,github,vscode&theme=dark" alt="C, C++, Python, C#, Linux, Git, GitHub e VS Code" />
   </a>
 </p>
 
@@ -159,7 +208,7 @@ for i in range(1, 101):
 <br>
 
 - 💡 Dúvidas de lógica ou algoritmos
-- 🤝 Estudar junto ou trocar dicas de C++ e Python
+- 🤝 Estudar junto ou trocar dicas de C++, Python e Linux
 - 🛠️ Ideias de projetos pequenos para praticar
 
 </details>
